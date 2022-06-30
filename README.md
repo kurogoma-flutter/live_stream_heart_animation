@@ -1,0 +1,2 @@
+# live_stream_heart_animation
+ライブ配信で見るハートぴょんぴょん飛ぶやつ
