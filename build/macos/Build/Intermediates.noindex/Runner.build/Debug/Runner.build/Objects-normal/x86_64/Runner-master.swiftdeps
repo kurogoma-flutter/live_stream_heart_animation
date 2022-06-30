@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1656573717, 938333034]
+build_end_time: [1656573741, 333600997]
+inputs:
+  "/Users/kanchi_ishige/Desktop/flutter_demo/live_stream_heart_animation/macos/Flutter/GeneratedPluginRegistrant.swift": [1656573663, 739366531]
+  "/Users/kanchi_ishige/Desktop/flutter_demo/live_stream_heart_animation/macos/Runner/AppDelegate.swift": [1652294283, 0]
+  "/Users/kanchi_ishige/Desktop/flutter_demo/live_stream_heart_animation/macos/Runner/MainFlutterWindow.swift": [1652294283, 0]
